@@ -11,6 +11,7 @@ dataset:https://www.kaggle.com/c/diabetic-retinopathy-detection/data
 11/9/2024: Data cleaning and preprocessing commenced, Template matching and Blob detection are yet to be implemented
            CNN should be revised too.
 
-11/23/2024: Data inversion function is implemented           
+11/23/2024: Data inversion stsction is being emplemented
+            for some reason,the algorithm is not able to detect the Macula or the notch, but we have a good lead         
            
 
