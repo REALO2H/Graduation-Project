@@ -7,7 +7,7 @@ dataset:https://www.kaggle.com/c/diabetic-retinopathy-detection/data
 
 Images link: https://1drv.ms/u/s!AheydS_4V6nDhqRX1CPSB3CQjMTiUw?e=XxXZsZ
 
-
+CNNs and Restricted Boltzmans machines will be implemented
 
 
 
