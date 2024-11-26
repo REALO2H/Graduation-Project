@@ -16,9 +16,10 @@ CNNs and Restricted Boltzmans machines will be implemented
 11/9/2024: Data cleaning and preprocessing commenced, Template matching and Blob detection are yet to be implemented
            CNN should be revised too.
 
-11/23/2024: Data inversion stsction is being emplemented
+11/23/2024: Data inversion algorithm is being emplemented
             for some reason,the algorithm is not able to detect the Macula or the notch, but we have a good lead  
 
+11/26/2024: Macula detection resolved, for the time being, but it's not optimal and it still needs a lot of work
 
            
 
