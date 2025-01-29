@@ -1,0 +1,14 @@
+names:
+- Optic-nerve
+- macula
+- notch
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: my-first-project-nxzes
+  url: https://universe.roboflow.com/graduation-project-f8ud5/my-first-project-nxzes/dataset/2
+  version: 2
+  workspace: graduation-project-f8ud5
+test: ../test/images
+train: ../train/images
+val: ../valid/images
