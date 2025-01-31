@@ -8,7 +8,7 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 #s
 
 
-labels_df = pd.read_csv('../labels_cleaned.csv') 
+labels_df = pd.read_csv('labels_cleaned.csv') 
 labels_df['inverted'] = False
 print(labels_df.head())
 
